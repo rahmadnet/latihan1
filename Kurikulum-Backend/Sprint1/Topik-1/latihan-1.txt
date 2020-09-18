@@ -1,0 +1,4 @@
+1. klik menu start
+2. lalu pilih Micosoft-Office
+3. lalu pilih Microsoft-Word
+4. klik file dan pilih new file

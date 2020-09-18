@@ -1,0 +1,20 @@
+1. Buatlah Pseudo-Code tentang cara Mengoperasikan Microsoft Word.
+
+a. klik menu start
+b. lalu pilih Micosoft-Office
+c. lalu pilih Microsoft-Word
+d. klik file dan pilih new file
+
+
+
+2. Buatlah Contoh Pseudo-Code minimal 7 step
+    cara mendapatkan uang dari prakerja
+a.melihat apakah pendaftaran sudah di buka
+b.daftar prakerja melalui web prakerja.go.id
+c.menunggu evaluasi dari prakerja.go.id
+d.menunggu keluarnya dana untuk membeli cours
+e.memilih cours apa yang akan di ambil
+f.mengerjakan cours yang telah di ambil
+g.menunggu sertifikat dari cours
+h.setelah sertifikat sudah masuk ke dasboard prakerja.go.id
+    maka tinggal menunggu insentif
